@@ -1,0 +1,1029 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="TresEnRaya:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="707bfc43-a93d-431a-820c-62165d0154f8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FabiolaFernandez$TestTresEnRaya.ic" NAME="TestTresEnRaya Coverage Results" MODIFIED="1536432595295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/FabiolaFernandez$Main__1_.ic" NAME="Main (1) Coverage Results" MODIFIED="1540808283386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="189" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="504190592">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+          <entry key="properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+          <entry key="Properties" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2397" />
+          <entry key="properties" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2397" />
+          <entry key="Properties" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-572213251">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.50" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="2385" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="2385" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1500217631">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="31" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.12" value="2" />
+          <entry key="project.open.time.13" value="2" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.44" value="4" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.48" value="2" />
+          <entry key="project.open.time.49" value="3" />
+          <entry key="project.open.time.50" value="2" />
+          <entry key="project.open.time.51" value="2" />
+          <entry key="project.open.time.52" value="3" />
+          <entry key="project.open.time.53" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.62" value="2" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.opened" value="33" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="java" value="621" />
+          <entry key="txt" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="JAVA" value="621" />
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="139" />
+          <entry key="dummy" value="306" />
+          <entry key="java" value="45583" />
+          <entry key="txt" value="75" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="139" />
+          <entry key="JAVA" value="45583" />
+          <entry key="PLAIN_TEXT" value="381" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="1488271956">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="17" />
+          <entry key="project.open.time.1" value="6" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.2" value="7" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.71" value="1" />
+          <entry key="project.opened" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="java" value="205" />
+          <entry key="txt" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="JAVA" value="205" />
+          <entry key="PLAIN_TEXT" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="dummy" value="111" />
+          <entry key="java" value="7477" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="JAVA" value="7477" />
+          <entry key="PLAIN_TEXT" value="113" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/gui/InterfazTresEnRaya.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2210">
+              <caret line="211" column="34" selection-start-line="211" selection-start-column="34" selection-end-line="211" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/persistenceData/Store.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit4 Test Class" />
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>formPlayer</find>
+      <find>clearWindow</find>
+      <find>clearWindowGame</find>
+      <find>jugarAleatorio</find>
+      <find>jugarConMaquina</find>
+      <find>Sys</find>
+      <find>FOrm</find>
+      <find>Registrar</find>
+      <find>Form</find>
+      <find>filter</find>
+      <find>Exce</find>
+      <find>Syste</find>
+      <find>form</find>
+      <find>showWindow</find>
+      <find>showTa</find>
+      <find>storePlayer</find>
+      <find>ganador</find>
+      <find>freeSq</find>
+      <find>free</find>
+      <find>System.ou</find>
+      <find>System.out</find>
+      <find>loadJar</find>
+      <find>newInstance</find>
+      <find>new S</find>
+      <find>optionGame</find>
+      <find>Syst</find>
+      <find>System</find>
+      <find>InterfazRegis</find>
+      <find>Store</find>
+      <find>buscarGanador</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/data/juego/TresEnRaya.java" />
+        <option value="$PROJECT_DIR$/data/Estrategia.java" />
+        <option value="$PROJECT_DIR$/data/Jugada.java" />
+        <option value="$PROJECT_DIR$/src/ia/Estrategia.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/Posicion.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/TresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/newGui/menu/MessageUser.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/ITresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/Jugador.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/Pieza.java" />
+        <option value="$PROJECT_DIR$/src/TresEnRaya/Tablero.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Posicion.java" />
+        <option value="$PROJECT_DIR$/src/newGui/board/Piece.java" />
+        <option value="$PROJECT_DIR$/src/newGui/manejador/ButtonListener.java" />
+        <option value="$PROJECT_DIR$/src/newGui/boardPosition/BoardPosition.java" />
+        <option value="$PROJECT_DIR$/src/newGui/board/Board.java" />
+        <option value="$PROJECT_DIR$/src/ia/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/newGui/menu/MessageGame.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/src/newGui/Game.java" />
+        <option value="$PROJECT_DIR$/data/store.txt" />
+        <option value="$PROJECT_DIR$/src/newGui/menu/OptionGame.java" />
+        <option value="$PROJECT_DIR$/src/gui/JugarTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Jugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/JugarTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/IFile.java" />
+        <option value="$PROJECT_DIR$/src/gui/IDataBase.java" />
+        <option value="$PROJECT_DIR$/src/gui/VentanaRegistrarJugador.java" />
+        <option value="$PROJECT_DIR$/src/gui/RegistrarJugador.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/ITablero.java" />
+        <option value="$PROJECT_DIR$/src/gui/UITresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/Store.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/IDataBase.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/IDataFile.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/DataFile.java" />
+        <option value="$PROJECT_DIR$/src/persitenceData/DataBase.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Ficha.java" />
+        <option value="$PROJECT_DIR$/test/TestTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Pieza.java" />
+        <option value="$PROJECT_DIR$/test/TableroTest.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/TresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/tresenraya/Tablero.java" />
+        <option value="$PROJECT_DIR$/src/strategy/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/gui/InterfazTresEnRaya.java" />
+        <option value="$PROJECT_DIR$/src/newGui/player/IRegister.java" />
+        <option value="$PROJECT_DIR$/src/newGui/player/ISearch.java" />
+        <option value="$PROJECT_DIR$/src/newGui/player/Form.java" />
+        <option value="$PROJECT_DIR$/src/gui/InterfazRegistrarJugador.java" />
+        <option value="$PROJECT_DIR$/src/persistenceData/FileInterfaz.java" />
+        <option value="$PROJECT_DIR$/dataBase/store.txt" />
+        <option value="$PROJECT_DIR$/src/persistenceData/Store.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="30" />
+    <option name="width" value="683" />
+    <option name="height" value="738" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="TresEnRaya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TresEnRaya" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="TresEnRaya" type="b2602c69:ProjectViewProjectNode" />
+              <item name="TresEnRaya" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="tresenraya" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542382996757" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../DrawingPad20181119/DrawingPad20181119" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/src/algoritmosIA" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/view2" />
+      <recent name="$PROJECT_DIR$/src/newGui" />
+      <recent name="$PROJECT_DIR$/src/Vista" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="TresEnRaya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Store" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="persistenceData.Store" />
+      <module name="TresEnRaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="newGui.player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Strategy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="strategy.Strategy" />
+      <module name="TresEnRaya" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TableroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TresEnRaya" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TableroTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTresEnRaya" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TresEnRaya" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTresEnRaya" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTresEnRaya.testEmpate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TresEnRaya" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestTresEnRaya" />
+      <option name="METHOD_NAME" value="testEmpate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="JUnit.TestTresEnRaya" />
+      <item itemvalue="JUnit.TableroTest" />
+      <item itemvalue="Application.Store" />
+      <item itemvalue="Application.Strategy" />
+      <item itemvalue="JUnit.TestTresEnRaya.testEmpate" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TableroTest" />
+        <item itemvalue="JUnit.TestTresEnRaya" />
+        <item itemvalue="JUnit.TestTresEnRaya.testEmpate" />
+        <item itemvalue="Application.Strategy" />
+        <item itemvalue="Application.Store" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="707bfc43-a93d-431a-820c-62165d0154f8" name="Default Changelist" comment="" />
+      <created>1535774816108</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1535774816108</updated>
+      <workItem from="1535930809445" duration="2793000" />
+      <workItem from="1535961263407" duration="11298000" />
+      <workItem from="1535984281955" duration="998000" />
+      <workItem from="1536081847199" duration="186000" />
+      <workItem from="1536094356469" duration="11928000" />
+      <workItem from="1536431788277" duration="116000" />
+      <workItem from="1536432148595" duration="7349000" />
+      <workItem from="1536489777283" duration="9255000" />
+      <workItem from="1536575666109" duration="9107000" />
+      <workItem from="1536815672392" duration="870000" />
+      <workItem from="1537073743880" duration="338000" />
+      <workItem from="1537098697552" duration="19303000" />
+      <workItem from="1537723247345" duration="17922000" />
+      <workItem from="1537949908433" duration="49566000" />
+      <workItem from="1538118427676" duration="599000" />
+      <workItem from="1538132909768" duration="10755000" />
+      <workItem from="1538341385840" duration="9133000" />
+      <workItem from="1538621958296" duration="7332000" />
+      <workItem from="1538663439645" duration="5255000" />
+      <workItem from="1538727080224" duration="19375000" />
+      <workItem from="1539006353641" duration="2101000" />
+      <workItem from="1539027108757" duration="4390000" />
+      <workItem from="1539171812788" duration="23785000" />
+      <workItem from="1539205713897" duration="23685000" />
+      <workItem from="1539245635377" duration="4526000" />
+      <workItem from="1539257244380" duration="2056000" />
+      <workItem from="1539264893382" duration="22285000" />
+      <workItem from="1539295722323" duration="25147000" />
+      <workItem from="1539503617464" duration="5000" />
+      <workItem from="1539511627950" duration="13346000" />
+      <workItem from="1539592366818" duration="1806000" />
+      <workItem from="1539654218254" duration="1874000" />
+      <workItem from="1539679854673" duration="63357000" />
+      <workItem from="1539864563563" duration="748000" />
+      <workItem from="1539942947309" duration="4771000" />
+      <workItem from="1540206165389" duration="2087000" />
+      <workItem from="1540209540971" duration="368000" />
+      <workItem from="1540380846737" duration="930000" />
+      <workItem from="1540702330199" duration="20889000" />
+      <workItem from="1540981564831" duration="15651000" />
+      <workItem from="1541012470978" duration="119000" />
+      <workItem from="1541015445150" duration="3994000" />
+      <workItem from="1541488062149" duration="1414000" />
+      <workItem from="1541494719069" duration="1043000" />
+      <workItem from="1541496016891" duration="1621000" />
+      <workItem from="1541490467337" duration="1971000" />
+      <workItem from="1541500584990" duration="5987000" />
+      <workItem from="1541517549968" duration="5284000" />
+      <workItem from="1541525520727" duration="5784000" />
+      <workItem from="1541683628417" duration="2598000" />
+      <workItem from="1541694804340" duration="2471000" />
+      <workItem from="1541749135911" duration="21459000" />
+      <workItem from="1541765529107" duration="598000" />
+      <workItem from="1541942882245" duration="17929000" />
+      <workItem from="1542232522795" duration="9561000" />
+      <workItem from="1542354179444" duration="16531000" />
+      <workItem from="1542563831768" duration="54000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 17h 52m 42s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 17h 54m 36s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableroTest - 2018.11.16 at 17h 56m 04s.xml">
+      <configuration name="TableroTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 17h 57m 31s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableroTest - 2018.11.16 at 18h 08m 41s.xml">
+      <configuration name="TableroTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 18h 08m 45s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 18h 09m 35s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 18h 10m 32s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestTresEnRaya - 2018.11.16 at 18h 11m 03s.xml">
+      <configuration name="TestTresEnRaya" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TableroTest - 2018.11.16 at 18h 11m 07s.xml">
+      <configuration name="TableroTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="525703000" />
+  </component>
+  <component name="TodoView" selected-index="2">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="30" width="1366" height="738" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4973822" visible="true" weight="0.2901515" />
+      <window_info id="Structure" order="1" sideWeight="0.5026178" side_tool="true" weight="0.18181819" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49924242" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6757576" weight="0.3448276" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.318555" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32840723" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32840723" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.3242424" side_tool="true" weight="0.23481117" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49166667" weight="0.30706075" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32954547" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" weight="0.32954547" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.32954547" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/data/strategia.class" />
+    <entry file="file://$PROJECT_DIR$/src/algoritmosIA/AlgoritmoMInimax.java" />
+    <entry file="file://$PROJECT_DIR$/data/algoritmo.java" />
+    <entry file="file://$PROJECT_DIR$/data/Strategia.class" />
+    <entry file="file://$PROJECT_DIR$/data/algoritmo.class" />
+    <entry file="file://$PROJECT_DIR$/data/juego/TresEnRaya.java" />
+    <entry file="file://$PROJECT_DIR$/data/Jugada.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/ITresEnRaya.java" />
+    <entry file="file://$PROJECT_DIR$/src/ia/Estrategia.java" />
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/awt/MenuItem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="264" selection-start-line="264" selection-end-line="264" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/Estrategia.java" />
+    <entry file="file://$PROJECT_DIR$/data/Estrategia.class" />
+    <entry file="file://$PROJECT_DIR$/data/Aleatorio.java" />
+    <entry file="file://$PROJECT_DIR$/dataBase/Aleatorio.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/lang/ClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="258" selection-start-line="258" selection-end-line="258" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/rt.jar!/java/security/SecureClassLoader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/handler/ButtonListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/boardPosition/BoardPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-191">
+          <caret line="22" column="28" selection-start-line="22" selection-start-column="28" selection-end-line="22" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/Game.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="196" selection-start-line="196" selection-end-line="196" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#2107#2238#0" expanded="true" />
+            <element signature="e#2237#2238#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/exception/ExceptionFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/newGui/board/Piece.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/board/Board.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="47" column="3" lean-forward="true" selection-start-line="45" selection-start-column="2" selection-end-line="47" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/menu/OptionGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="87" column="30" lean-forward="true" selection-start-line="87" selection-start-column="30" selection-end-line="87" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Posicion.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Jugador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/IRegistrarJugador.java" />
+    <entry file="file://$PROJECT_DIR$/src/gui/RegistrarJugador.java" />
+    <entry file="file://$PROJECT_DIR$/src/persitenceData/IFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/ITablero.java" />
+    <entry file="file://$PROJECT_DIR$/src/newGui/message/MessageGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/JugarTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-273">
+          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persitenceData/IDataFile.java" />
+    <entry file="file://$PROJECT_DIR$/src/persitenceData/DataBase.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#129#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TestTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="107" lean-forward="true" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#332#333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Ficha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Pieza.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="12" column="30" lean-forward="true" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+          <folding>
+            <element signature="e#131#132#0" expanded="true" />
+            <element signature="e#167#168#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#227#228#0" expanded="true" />
+            <element signature="e#352#353#0" expanded="true" />
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#463#464#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TableroTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="73" column="39" lean-forward="true" selection-start-line="73" selection-start-column="39" selection-end-line="73" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/TresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="79" column="3" lean-forward="true" selection-start-line="79" selection-start-column="3" selection-end-line="79" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tresenraya/Tablero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="94" column="5" lean-forward="true" selection-start-line="94" selection-start-column="5" selection-end-line="94" selection-end-column="5" />
+          <folding>
+            <element signature="e#2538#2539#0" expanded="true" />
+            <element signature="e#2573#2574#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/strategy/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/player/ISearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="34" lean-forward="true" selection-start-line="3" selection-start-column="34" selection-end-line="3" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/player/IRegister.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/message/MessageUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="45" selection-start-line="5" selection-start-column="45" selection-end-line="5" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/newGui/player/Form.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="19" column="52" lean-forward="true" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#initForm#0;class#Form#0" />
+            <element signature="method#searchFile#0;class#Form#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/InterfazRegistrarJugador.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-78">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persistenceData/FileInterfaz.java" />
+    <entry file="file://$PROJECT_DIR$/dataBase/store.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="3" column="6" lean-forward="true" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/gui/InterfazTresEnRaya.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2210">
+          <caret line="211" column="34" selection-start-line="211" selection-start-column="34" selection-end-line="211" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/persistenceData/Store.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="57" column="29" selection-start-line="57" selection-start-column="29" selection-end-line="57" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+              <type id="library" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>TresEnRaya:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>TresEnRaya</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>junit-4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
